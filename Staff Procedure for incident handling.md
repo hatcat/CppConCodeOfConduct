@@ -5,8 +5,6 @@ Be sure to have a good understanding of our Code of Conduct policy, which can be
 
 Also have a good understanding of what is expected from an attendee that wants to report a harassment incident. These guidelines can be found [here](Attendee%20Procedure%20for%20incident%20handling.md)
 
-Anyone on the Code of Conduct handling team who could have or appear to have a conflict of interest in a particular incident report (including if they are one of the involved parties or a close friend) will not participate in handling the incident.
-
 Try to get as much of the incident in written form by the reporter. If you cannot, transcribe it yourself as it was told to you. The important information to gather include the following:
 
  - Identifying information (name/badge number) of the participant doing the harassing
@@ -59,6 +57,8 @@ Some things for the staff to consider when dealing with Code of Conduct offender
 Give accused attendees a place to appeal to if there is one, but in the meantime the report stands. Keep in mind that it is not a good idea to encourage an apology from the harasser.
 
 It is very important how we deal with the incident publicly. Our policy is to make sure that everyone aware of the initial incident is also made aware that it is not according to policy and that official action has been taken - while still respecting the privacy of individual attendees.  When speaking to individuals (those who are aware of the incident, but were not involved with the incident) about the incident it is a good idea to keep the details out.
+
+Anyone on the Code of Conduct handling team who could have or appear to have a conflict of interest in a particular incident report (including if they are one of the involved parties or a close friend) will not participate in handling the incident.
 
 Depending on the incident, Jon Kalb (conference chair) and Herb Sutter (ISO C++ Foundation advisor) may decide to make one or more public announcements. If necessary, this will be done with a short announcement either during the plenary and/or through other channels. No one other than the conference chair or someone delegated authority from the conference chair should make any announcements. No personal information about either party will be disclosed as part of this process.
 
